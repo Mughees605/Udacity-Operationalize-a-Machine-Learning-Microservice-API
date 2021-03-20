@@ -1,4 +1,4 @@
-[![CircleCI](https://app.circleci.com/pipelines/github/Mughees605/Udacity-Operationalize-a-Machine-Learning-Microservice-API.svg?style=svg)](https://app.circleci.com/pipelines/github/Mughees605/Udacity-Operationalize-a-Machine-Learning-Microservice-API)
+[![Mughees605](https://app.circleci.com/gh/Mughees605/Udacity-Operationalize-a-Machine-Learning-Microservice-API.svg?style=svg)](https://app.circleci.com/pipelines/github/Mughees605/Udacity-Operationalize-a-Machine-Learning-Microservice-API)
 # Operationalize-a-Machine-Learning-Microservice-API
 Microservice Project [Udacity Cloud DevOps Engineer Nanodegree]
 
